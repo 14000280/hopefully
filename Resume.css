@@ -1,0 +1,63 @@
+p{
+    font-weight: bold;
+    font-size: 25px;
+}
+
+#top{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    text-align: center;
+    
+
+}
+.next{text-align:left;
+    text-decoration: underline;
+}
+
+#emphasis{
+    font-style: italic,;
+    font-weight: 300px;
+    color: grey;
+
+    
+
+}
+.video{
+    float: right;
+}
+ #img {
+    float: right; 
+    margin-right: 50px; 
+    max-height: 500px;
+    max-width: 800px;
+
+}
+
+#work{
+    font-style: bold;
+    font-size: larger;
+    font-weight: 1000px;
+    text-decoration: underline;
+}
+body{
+    background-color: rgb(223, 215, 215);
+    font-family:'Courier New', Courier, monospace;
+
+    border:30px solid rgb(0, 0, 8);
+    margin: 20px;
+    padding: 20px;
+    text-align:left;
+   
+}
+ol{
+    list-style-position: left;
+  }
+
+ul{
+    list-style-position: left;}
+.worker{
+        font-style: bold;
+        font-size: larger;
+        font-weight: 1000px;
+        text-decoration: underline;
+    }
